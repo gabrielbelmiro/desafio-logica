@@ -93,16 +93,6 @@ O Herói tem de saldo de 45 está no nível de Ferro
 
 ---
 
-## 🚀 Roadmap de Evolução
-
-- Permitir entrada dinâmica via terminal
-- Criar versão orientada a objeto (classe Jogador)
-- Implementar validações de dados
-- Adicionar testes unitários
-- Transformar em mini API REST
-
----
-
 ## 📈 Competências Demonstradas
 
 - Lógica matemática aplicada

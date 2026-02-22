@@ -62,7 +62,9 @@ A solução foi estruturada da seguinte forma:
 
 A escolha da estrutura 'switch(true)' permite avaliar múltiplas condições booleanas de maneira organizada, mantendo a leitura limpa e escalável para futuras expansões da regra.
 
-📂 O código-fonte completo está disponível em: src/index.js
+📂 O código-fonte completo está disponível em: 
+
+src/desafio1/index.js
 
 ---
 
