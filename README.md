@@ -1,4 +1,4 @@
-# 🚀 Bootcamp DIO | Fundamentos em JavaScript
+# 🚀 Formação DIO Lógica de Programação
 
 Coleção de projetos desenvolvidos durante os desafios práticos da DIO (Digital Innovation One), com foco na consolidação de fundamentos essenciais de programação utilizando JavaScript.
 
