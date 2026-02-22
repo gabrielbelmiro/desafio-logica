@@ -81,17 +81,6 @@ O Herói de nome Legola-GreenLeaf está no nível Radiante.
 
 ---
 
-## 🚀 Roadmap de Evolução
-
-- Refatorar para função 'classificarHeroi(xp)'
-- Implementar validação de entrada de dados
-- Versão orientada a objeto
-- Criar interface HTML simples
-- Implementar testes unitários
-- Transformar em mini API com Node.js
-
----
-
 ## 📈 Competências Demonstradas
 
 - Lógica de programação
