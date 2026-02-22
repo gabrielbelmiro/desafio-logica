@@ -79,7 +79,7 @@ src/desafio2/index.js
 
 ## 🖥️ Exemplo de Saída
 
-O Herói tem de saldo de 45 está no nível de Prata
+O Herói tem de saldo de 45 está no nível de Ferro
 
 
 ---
